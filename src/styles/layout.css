@@ -7,6 +7,14 @@
 }
 
 .section-text{
-    min-width:500px;
-    margin:50px;
+    width:50%;
+}
+
+.section-img{
+    width:50%;
+}
+
+.about-me-img{
+    height:100px;
+    width:100px;
 }
