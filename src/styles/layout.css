@@ -1,0 +1,12 @@
+.section{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    padding:100px;
+    background-color:grey;
+}
+
+.section-text{
+    min-width:500px;
+    margin:50px;
+}
