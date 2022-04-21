@@ -1,4 +1,4 @@
-import logo from './images/loc-logo.jpg';
+import logo from './images/logo.png';
 import './App.css';
 import AboutMe from './components/about-me';
 
