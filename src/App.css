@@ -1,5 +1,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Ms+Madi");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker");
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand");
 
 .App {
   text-align: center;
@@ -24,4 +26,14 @@
   font-family: 'Ms Madi', cursive;
   color:#5E391E;
   font-size:64px;
+}
+
+.section-title{
+  font-family: 'Permanent Marker', cursive;
+  color:#5E391E;
+  font-size:64px;
+}
+
+.text {
+  font-family: 'Patrick Hand', cursive;
 }
