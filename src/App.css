@@ -1,7 +1,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Ms+Madi");
-@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker");
-@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand");
+@import url("https://fonts.googleapis.com/css2?family=Boogaloo");
+@import url("https://fonts.googleapis.com/css2?family=Martel+Sans");
 
 .App {
   text-align: center;
@@ -29,11 +29,11 @@
 }
 
 .section-title{
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Boogaloo', cursive;
   color:#5E391E;
   font-size:64px;
 }
 
 .text {
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Martel Sans', sans-serif;
 }
