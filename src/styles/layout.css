@@ -5,8 +5,16 @@
     background-color: #ffebff;
 }
 
+.products-section{
+    background-color: #c7dcff;
+}
+
+.product-carousel {
+    height:100%;
+}
+
 .section-text{
-    width:50%;
+    max-width:50%;
     padding: 30px;
 }
 
@@ -17,4 +25,9 @@
 .about-me-img{
     height:100%;
     width:100%;
+}
+
+.carousel-img{
+    height:50%;
+    width:50%
 }

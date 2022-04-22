@@ -1,6 +1,7 @@
 import logo from './images/logo.png';
 import './App.css';
 import AboutMe from './components/about-me';
+import Products from './components/products';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         </h1>
       </header>
       <AboutMe />
+      <Products />
     </div>
   );
 }
