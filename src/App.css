@@ -1,39 +1,39 @@
-
 @import url("https://fonts.googleapis.com/css2?family=Ms+Madi");
 @import url("https://fonts.googleapis.com/css2?family=Boogaloo");
 @import url("https://fonts.googleapis.com/css2?family=Martel+Sans");
 
 .App {
-  text-align: center;
-  background-color: #fffae0;
+	text-align: center;
+	background-color: #fffae0;
 }
 
 .logo {
-  width:30%;
-  height:30%;
+	width: 30%;
+	height: 30%;
 }
 
 .App-header {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
 }
 
-.title{
-  font-family: 'Ms Madi', cursive;
-  color:#5E391E;
-  font-size:64px;
+.title {
+	font-family: "Ms Madi", cursive;
+	color: #5e391e;
+	font-size: 64px;
 }
 
-.section-title{
-  font-family: 'Boogaloo', cursive;
-  color:#5E391E;
-  font-size:64px;
+.section-title {
+	font-family: "Boogaloo", cursive;
+	color: #5e391e;
+	font-size: 64px;
 }
 
 .text {
-  font-family: 'Martel Sans', sans-serif;
+	font-family: "Martel Sans", sans-serif;
+	padding: 30px;
 }
