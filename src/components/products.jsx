@@ -10,7 +10,23 @@ function Products() {
 	return (
 		<div className="section products-section">
 			<div className="section-img">
-				<img src={pic1} className="about-me-img" alt="chloe" />
+			<Carousel
+	className="product-carousel"
+	showThumbs={false}
+	showStatus={false}
+	autoPlay={true}
+	infiniteLoop={true}
+>
+	<div>
+		<img src={pic1} />
+	</div>
+	<div>
+		<img src={pic2} />
+	</div>
+	<div>
+		<img src={pic3} />
+	</div>
+</Carousel>
 			</div>
 			<div className="section-text">
 				<p className="section-title">Our Tasty Treats</p>
@@ -32,20 +48,20 @@ function Products() {
 
 export default Products;
 
-// <Carousel
-// 	className="product-carousel"
-// 	showThumbs={false}
-// 	showStatus={false}
-// 	autoPlay={true}
-// 	infiniteLoop={true}
-// >
-// 	<div>
-// 		<img src={pic1} />
-// 	</div>
-// 	<div>
-// 		<img src={pic2} />
-// 	</div>
-// 	<div>
-// 		<img src={pic3} />
-// 	</div>
-// </Carousel>;
+{/* <Carousel
+	className="product-carousel"
+	showThumbs={false}
+	showStatus={false}
+	autoPlay={true}
+	infiniteLoop={true}
+>
+	<div>
+		<img src={pic1} />
+	</div>
+	<div>
+		<img src={pic2} />
+	</div>
+	<div>
+		<img src={pic3} />
+	</div>
+</Carousel>; */}
