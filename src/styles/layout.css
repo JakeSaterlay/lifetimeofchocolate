@@ -52,6 +52,11 @@
 
 	.products-section {
 		background-color: #c7dcff;
+		flex-direction: column-reverse;
+	}
+
+	.events-section {
+		background-color:#fffae0
 	}
 
 	.section-text {
