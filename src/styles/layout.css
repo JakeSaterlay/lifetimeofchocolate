@@ -45,13 +45,18 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		background-color: #ffebff;
+		/* background-color: #ffebff; */
 		align-items: center;
 		height: 100%;
 	}
 
+	.section-img {
+		width: 100%;
+	}
+
 	.products-section {
 		background-color: #c7dcff;
+		flex-direction: column-reverse;
 	}
 
 	.section-text {
